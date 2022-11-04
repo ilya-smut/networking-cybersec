@@ -1,4 +1,4 @@
-# Authentication bypass
+# Authentication bypass (Only authorised actions. Do not do illegal stuff.)
 
 ## It is usefull to collect a list of valid usernames
 - Could be done by getting server error messages
