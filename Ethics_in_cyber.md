@@ -3,7 +3,7 @@
 ## Ethical values in cyber security:
 - Security - physical, national, cyber (CIA)
 - Privacy - autonomy, human dignity, identity, personhood, liberty
-- Fairness - proffessionalism, non-secrimination, democracy, acccessibility 
+- Fairness - proffessionalism, non-descrimination, democracy, acccessibility 
 - Accountability - transparency, openness, explainability, responsibility
 
 ## Conflicts between security/Privacy & other ethical prinicples:
