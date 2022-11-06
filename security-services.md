@@ -13,5 +13,5 @@
 ## Non repudation
 Assuring identities of parties in a transaction (proof of delievery and identity)
 
-## Privary 
+## Privacy 
 Relates to any rights a person has to control their personal information and how it is used
