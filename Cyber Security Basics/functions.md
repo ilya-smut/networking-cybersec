@@ -16,12 +16,14 @@ g(f(x)) = 25x^2
 
 ### Mathematically functions me be seen as a link between two set of numbers
 
-f: X -|-> Y
-add_one: 1..5 -|-> 1..5 , function takes number and adds one
+- f: X -|-> 
+- add_one: 1..5 -|-> 1..5 , function takes number and adds one
 
 > There are domain and the range of the function:
-> dom add_one = {1,2,3,4} - 5 is not included
-> ran add_one = {2,3,4,5} - 1 is not included
+
+dom add_one = {1,2,3,4} - 5 is not included
+
+ran add_one = {2,3,4,5} - 1 is not included
 
 ### Partial and Total function
 
