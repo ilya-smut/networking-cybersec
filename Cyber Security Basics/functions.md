@@ -63,3 +63,9 @@ Binary relation, R, from A to B associates elements of A to Elements of B
 
 3. Bijective (invertible) - No two elements of A are sent to to the same result and all elements of B are used up
 [![Bijective.png](https://i.postimg.cc/Dzt92XMg/Bijective.png)](https://postimg.cc/yJyQjkBg)
+
+
+## Composition of functions
+
+If we have two fucntions f: A -> B and g: B -> C, then we can have a new function *g o f:* A -> C
+
