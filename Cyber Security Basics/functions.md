@@ -16,7 +16,7 @@ g(f(x)) = 25x^2
 
 ### Mathematically functions me be seen as a link between two set of numbers
 
-- f: X -|-> 
+- f: X -|-> Y
 - add_one: 1..5 -|-> 1..5 , function takes number and adds one
 
 > There are domain and the range of the function:
