@@ -1,6 +1,7 @@
 ## Basics
 
-> New-Item -Path 'X:\Guru99' -ItemType Directory
+> New-Item -Path 'X:\Guru99' -ItemType Directory <br>
+> remove-item -path 'path'
 
 > Write-Host "Hello, Guru99!"
 
@@ -22,3 +23,18 @@
 - $NULL 	Contains empty or NULL value.
 - $False 	Contains FALSE value
 - $True 	Contains TRUE value
+
+## PowerShell Concepts
+
+- Cmdlets 	Cmdlet are build-command written in .net languages like VB or C#. It allows developers to extend the set of cmdlets by loading and write PowerShell snap-ins.
+- Functions 	Functions are commands which is written in the PowerShell language. It can be developed without using other IDE like Visual Studio and devs.
+- Scripts :	Scripts are text files on disk with a .ps1 extension
+- Applications : 	Applications are existing windows programs.
+- What if :	Tells the cmdlet not to execute, but to tell you what would happen if the cmdlet were to run.
+- Confirm  :	Instruct the cmdlet to prompt before executing the command.
+- Verbose :	Gives a higher level of detail.
+- Debug :	Instructs the cmdlet to provide debugging information.
+- ErrorAction :	Instructs the cmdlet to perform a specific action when an error occurs. Allowed actions continue, stop, silently- continue and inquire.
+- ErrorVariable :	It specifies the variable which holds error information.
+- OutVariable :	Tells the cmdlet to use a specific variable to hold the output information
+- OutBuffer :	Instructs the cmdlet to hold the specific number of objects before calling the next cmdlet in the pipeline.
