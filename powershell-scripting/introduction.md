@@ -7,6 +7,8 @@
 
 > Set-executionpolicy unrestricted
 
+> copy-item -path {path} -destination {destination path} 
+
 
 
 ## Data types:
