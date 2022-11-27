@@ -21,7 +21,7 @@
 
 ## EMAIL and WEB
 - SMTP -25/587_with_TLS- Simple Mail Transfer Protocol
-- (S)POP3 -101- Post office protocol. SPOP -995- encrypted
+- (S)POP3 -110- Post office protocol. SPOP -995- encrypted
 - (S)IMAP4 -143/993_encrypted- Internet Messaging Access Protocol. Allows to store emails on server, organaize them in folders.
 - HTTP - 80 - Hyper Text Transfer Protocol
 - HTTPS - 443 - HTTP using TLS
