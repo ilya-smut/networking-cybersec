@@ -72,3 +72,9 @@ Text section needs to have label start
       mov rax, 60
       syscall
 ```
+
+### Compiling with yasm
+```
+yasm -f elf64 {name}.asm
+ld -o {Name_of_executable} {name}.o
+```
